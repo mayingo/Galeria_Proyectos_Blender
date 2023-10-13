@@ -8,6 +8,7 @@ body{
     background-color: rgb(57, 0, 57);
 }
 h1{
+	font-family: 'Montserrat', sans-serif;
     font-style:italic;
     color: white;
 }
